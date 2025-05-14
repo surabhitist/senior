@@ -19,6 +19,11 @@ h1 {
   color: #1976d2; /* Blue color for the title */
 }
 
+h3 {
+  text-align: center;
+  color: #1976d2; /* Blue color for the title */
+}
+
 .participants-list {
   list-style: none;
   padding: 0;
@@ -30,7 +35,7 @@ h1 {
 }
 
 .card {
-  background: #bbdefb; /* Light blue background for card */
+  background: #e3f2ff; /* Light blue background for card */
   padding: 15px 20px;
   border-radius: 10px;
   border-left: 5px solid #2196f3; /* Blue left border */
