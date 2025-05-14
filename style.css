@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #e3f2fd; /* Light blue background */
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(33, 150, 243, 0.1); /* Soft blue shadow */
+}
+
+h1 {
+  text-align: center;
+  color: #1976d2; /* Blue color for the title */
+}
+
+.participants-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.participants-list li {
+  margin-bottom: 15px;
+}
+
+.card {
+  background: #bbdefb; /* Light blue background for card */
+  padding: 15px 20px;
+  border-radius: 10px;
+  border-left: 5px solid #2196f3; /* Blue left border */
+}
+
+.rank {
+  font-weight: bold;
+  color: #1976d2; /* Blue for rank */
+  margin-bottom: 5px;
+}
+
+.card h2 {
+  margin: 0 0 10px;
+  color: #0d47a1; /* Dark blue for participant name */
+}
+
+.card p {
+  color: #1e88e5; /* Slightly lighter blue for marks */
+}
